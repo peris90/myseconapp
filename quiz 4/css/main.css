@@ -1,0 +1,114 @@
+body {
+
+    background-color: lightsalmon;
+    padding-bottom:10%;
+    background-size:100%;
+    margin-top:3%;
+    
+    outline-style: outset;
+
+    
+
+
+}
+
+ul.horizontal {
+    list-style-type: none;
+    margin-top: -8px;
+    margin-left: -8px;
+    padding: -8px;
+    width: 100%;
+    background-color: #333;
+    height: 5%; /* Full height */.  
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: hidden; /* Enable scrolling if the sidenav has too much content */
+    
+}    
+li {
+    float: left;
+
+}
+
+li .focus {
+    display: inline-block;
+    color: lightsalmon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+
+    
+
+}
+
+
+.images{
+ 
+    float: left;
+    margin: 20px;
+ padding-top: 15px;
+}
+.box1{
+    width:230px;
+    height: 230px;
+
+
+}
+.box2{
+     width:230px;
+    height: 230px;
+    
+
+}
+.box3{
+     width:230px;
+    height: 230px;
+
+
+
+}
+.boxp{
+    width:230px;
+    height: 230px;
+
+ 
+}
+
+.pic{
+    float: left;
+    margin: 20px;
+}
+.box4{
+     width:230px;
+    height: 230px;
+
+}
+.box5{
+      width:230px;
+    height: 230px;
+    
+
+}
+.box6{
+      width:230px;
+    height: 230px;
+    
+
+}
+.boxz{
+     width:230px;
+    height: 230px;
+
+
+}
+
+
+
+
+
+

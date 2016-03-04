@@ -1,0 +1,111 @@
+body{
+	background-color: gold;
+	width: 800px;
+	margin:0 auto;
+	height: 1500px;
+	
+
+
+}
+
+
+
+.candy{
+	width: 240px;
+	height: 240px;
+	float: left;
+	border-color: pink;
+	margin: 10px;
+	}
+
+.box1{
+	background-color: black;
+	width: 183px;
+	height: 190px;
+	background-image: url(../img/rihanna.jpeg);
+	
+}
+
+.box2{
+	background-color: green;
+	width: 183px;
+	height: 190px;
+	
+	
+}
+
+.box3{
+	background-color: white;
+	width: 183px;
+	height: 190px;
+	
+}
+
+.panel{
+	margin: 10px;
+    
+    height: 210px;
+    float: left;
+   
+} 
+
+.b1{
+	background-color: silver;
+	width:590px;
+	height: 250px;
+	}
+
+.peris{
+	width: 250px;
+	height: 250px;
+	float: left;
+	border-color: pink;
+	margin: 10px;
+	
+}
+
+.cat1{
+	background-color: black;
+	width: 285px;
+	height: 300px;
+	
+	}
+	.cat2{
+	background-color: green;
+	width: 285px;
+	height: 300px;
+	
+}
+
+.peris2{width: 250px;
+	height: 250px;
+	float: left;
+	border-color: pink;
+	margin: 10px;
+	
+}
+
+.dog1{
+	background-color: blue;
+	width:590px;
+	height: 250px;
+	
+}
+
+.peris3{width: 250px;
+	height: 250px;
+	float: left;
+	background-color: pink;
+	margin:10px;
+	
+
+}
+.cow{background-color:pink;
+	width:590px;
+	height: 250px;
+	
+
+}
+
+
+

@@ -1,0 +1,36 @@
+h1{
+	background-color:white;
+	text-align: center;
+	height: auto;
+	border: black;
+	padding:20px;
+
+}
+.peris1{
+
+	border-style: hidden;
+	height: auto;
+	width: 800px;
+	background-color: white;
+}
+
+.peris2{
+	border-style: hidden;
+	height: 300px;
+	width: 800px;
+	background-image:url(../img/couple love.jpg);
+}
+
+.peris3{
+	height: 300px;
+	width: 800px;
+	background-color: white;
+	background-position: left;
+	text-align: right;
+}
+
+.peris4{
+	height: 300px;
+	width:800px;
+	background-image:url(../img/love-feels.jpg);
+

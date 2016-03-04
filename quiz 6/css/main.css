@@ -1,0 +1,40 @@
+table,th,td{
+	border:0.5px solid blue;
+	border-collapse: collapse;
+
+}
+	th,td{
+		padding: 8px;
+		text-align: left;
+
+	}
+table#t01{
+	background-color: purple;
+	width: 90%;
+	border-style: 1px solid;
+	text-align: left;
+}
+table#t01 th{
+	background-color: rgb(975);
+	color:white; 
+}
+
+
+
+
+li table#t01 tr:nth-child(odd) {
+    
+    background-color: silver;
+    width: 30%;
+    height:20%;
+}
+li table#t01 tr:nth-child(even){
+	background-color: white;
+	width: 30%;
+	height: 20%;
+}
+
+body{
+	margin:0 auto;
+}
+	

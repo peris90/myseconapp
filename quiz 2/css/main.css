@@ -1,0 +1,47 @@
+h1{
+	background-color:white;
+	text-align: center;
+	height: auto;
+	border: black;
+	padding:20px;
+
+}
+.peris1{
+
+	border-style: hidden;
+	height: auto;
+	width: 800px;
+	background-color: white;
+	margin:0 auto }
+
+.peris2{
+	border-style: hidden;
+	height: 300px;
+	width: 800px;
+	background-image:url(../img/tree.png);
+	margin:0 auto;
+}
+
+.peris3{
+	height: 300px;
+	width: 800px;
+	background-color: white;
+	background-position: left;
+	text-align: right;
+	margin:0 auto;
+
+
+}
+.peris3 img{
+	padding-left: 30px;
+
+}
+
+.peris4{
+	height: 300px;
+	width:800px;
+	background-image:url(../img/kidlove.jpg); 
+	background-repeat:repeat-x;
+	background-position: left;
+	margin:0 auto; 
+
