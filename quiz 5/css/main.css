@@ -1,13 +1,20 @@
 body{
+	background-color: white;
+
+}
+
+
+#container{
 	background-color: gold;
-	width: 800px;
+	width: 621px;
 	margin:0 auto;
-	height: 1500px;
+	height: 1368px;
+	padding-left: 13px;
+	padding-top: 10px;
 	
 
 
 }
-
 
 
 .candy{
@@ -16,11 +23,12 @@ body{
 	float: left;
 	border-color: pink;
 	margin: 10px;
+	padding: 10px;
 	}
 
 .box1{
 	background-color: black;
-	width: 183px;
+	width: 125px;
 	height: 190px;
 	background-image: url(../img/rihanna.jpeg);
 	

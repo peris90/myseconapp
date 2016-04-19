@@ -1,13 +1,16 @@
 body {
 
     background-color: lightsalmon;
-    padding-bottom:10%;
-    background-size:100%;
-    margin-top:3%;
-    
-    outline-style: outset;
+    padding-bottom:0px;
+    background-size:0px;
 
-    
+}
+
+#container{
+    width: 100%;
+    height:100%;
+    font-family: serif;
+
 
 
 }
@@ -40,18 +43,32 @@ li .focus {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #111;
-
-    
+    background-color: #111; 
 
 }
 
+/*.box {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border:  3px solid #73AD21;;
+    padding: 10px;
+    text-align:justify;*/
+}
 
-.images{
+.h1{
+    text-align: center;
+    color: white;
+    text-decoration:underline red; 
+
+
+}
+
+/*.images{
  
     float: left;
     margin: 20px;
- padding-top: 15px;
+ padding-top: 15px;*/
 }
 .box1{
     width:230px;
