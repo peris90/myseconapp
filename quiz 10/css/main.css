@@ -1,4 +1,4 @@
-body{
+/*body{
 	width: 100%;
     font-size: 80%;
     background-color: #000;
@@ -11,7 +11,6 @@ table{
 width: 54%;
 height: auto;
 margin: 0 auto;
-/*padding-left: 550px;*/
 padding-bottom: 20px;
 padding-left: 20px;
 
@@ -35,10 +34,14 @@ margin: 10px;
 
 .table{
   padding-top: 50px;
-  padding-right:180px;
+  padding-right:275px;
+  border-bottom: 1px solid grey;
+  margin-left: 10px;
+   float: right;   
+   border-bottom: thin solid grey; 
 }
 #dominant{
-width: 77%;
+width: 72%;
 height: 1171px;
 background-color: #fff;
 margin: 0 auto;
@@ -61,13 +64,12 @@ margin: 0 auto;
 border-style: hidden;
 height:180px;
  width: 100%;	
-/* border-bottom: solid;*/
 }
 .info1{
 padding-bottom:1%;
 padding-top:5%;
 font-size: 200%;
-padding-left: 90px; 
+padding-left: 79px; 
 }
 .info2{
    padding-left: 90px; 
@@ -99,34 +101,38 @@ margin-top: -52px;
 color: #666666;
 float: right;
 top: -15% right;
- margin-top: -32px; 
+ margin-top: -32px;
+ right: 100px; 
 }
  .cont{
-padding-right: 50%;
-padding-top: 40px;
+padding-right: 40%;
+padding-top: 43px;
 }
 
 .box1{
 height: 180px;
-width: 100%;
- border-bottom: solid;
+width: 103%;
+ border-bottom: 1px solid grey;
 
 }
 
 .box2{
-width: 100%;
+width: 87%;
 height: 180px; 
-border-style: hidden;
- border-bottom: solid gray;
+
  font-size: 75%;
+  padding-right: 144px;
+   float: right;  
+   margin-right: 10px; 
+   border-bottom: thin solid grey; 
  }
  .bx{
-    padding-left: 5px;
+    padding-left: 7px;
     display:inline-block;
-    width: 130px;
+    width: 123px;
     height: 80px;
-    margin-left: 5px;
-    padding-top: 40px; 
+    margin-left: 8px;
+    padding-top: 38px; 
 
  
 }
@@ -138,30 +144,22 @@ border-style: hidden;
     width: 100%;
     height: 180px;
      padding-right: 30px; 
-     border-bottom: solid;
   }
 
 .bx2{
-    padding-top: 50px; 
-    margin-right: 55%;
-   font-size: 80%;
-
+padding-top: 55px;
+margin-right: 58%;
+font-size: 80%;
 }
 .box4{
     height: 180px;  
-     border-style: hidden;
     padding-left: -550px; 
-  /*  padding-top: 28px;*/
-   /* margin-top: 10px;*/
-  /*   border-bottom:solid gray;*/
-
-
  }  
 .box5{
-/*  border-bottom: solid gray;
-*/  padding-right: 180px;
- float: right;  
-   height: 180px;   
+   padding-right: 144px;
+   float: right;  
+   height: 140px; 
+   border-bottom: thin solid grey; 
 }
 .bx3{
    
@@ -173,13 +171,67 @@ h2{
     padding-left: 70px;
     float: left;
     margin-bottom: 50px;
-    padding-top: 50px;
+    padding-top: 47px;
 }
 .number{
-  top: -88px;
- float:top-right;
- right: 80px;
+}
+.number1{
+  font-weight: 50%;
+}*/
+body{
+ font-size: 12px;
+}
+h1{
+  width: 40%;
+  height: 20px;
+}
+.container{
+  width:37%; 
+height: 1171px;
+background-color: #fff;
+margin: 0 auto;
+border-style: hidden;
+padding-top: 3%;
+/*margin-top: 2%;*/  
+}
+.sub-container{
+/*  width: 80%;*/
+background-color: red;
+margin: 0 auto;
+border-style: hidden;
+padding-top: 3%; 
+height:1111px;
+}
+.row{
+  border-bottom: 2px solid grey;
+  padding-top: 5px;
+}
+.right{
+    float: left;
+    clear: right;
 
 }
+.left{
+    float: right;
+    clear: left;
+    margin-right:5px;
+}
+.table{
+  height: 180px;
+  width: 76%;
+}
+table{
+  width:80%;
+}
+table, th, td {
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+}
+.third{
+  width: 24%;
+  display: inline-block;
+  padding-left: 10px;
 
-
+}
